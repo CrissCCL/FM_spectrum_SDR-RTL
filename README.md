@@ -12,7 +12,6 @@ The code captures raw IQ samples from an FM radio station, performs **FM demodul
 The project is intended for **educational, laboratory, and signal processing analysis purposes**, with a focus on understanding the **FM stereo multiplex spectrum**.
 
 
-
 ## 🧰 Hardware Setup
 
 The measurements were performed using a **low-cost RTL-SDR USB dongle** connected to a standard FM broadcast antenna.
@@ -53,7 +52,6 @@ The RTL-SDR is used exclusively for **IQ data acquisition**, while all signal pr
 The processing chain follows a **standard digital FM receiver architecture**, focused on spectrum inspection rather than audio playback.
 
 
-
 ## 📊 Spectrum Analysis & Results
 
 The following figure shows the **complete FM stereo baseband analysis (0–60 kHz)** after demodulation.
@@ -77,7 +75,6 @@ The spectrum clearly shows the main FM stereo components:
 - **23–53 kHz:** Stereo difference signal (L−R)
 - **38 kHz:** Stereo subcarrier
 - **57 kHz:** RDS subcarrier
-
 
 
 ## ⚙️ SDR Configuration
@@ -118,7 +115,7 @@ python analisisSDR.py
 
 - Frequency Modulation (FM) – Wikipedia: [Wikipedia Frequency Modulation](https://en.wikipedia.org/wiki/Frequency_modulation)
 
-- FM stereo – Wikipedia: [FM Stereo](https://en.wikipedia.org/wiki/FM_broadcasting)
+- FM broadcasting – Wikipedia: [FM Stereo](https://en.wikipedia.org/wiki/FM_broadcasting)
 
 ## 📜 License
 MIT License  
