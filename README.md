@@ -114,17 +114,11 @@ python analisisSDR.py
 
 ## 📚 References
 
-- GNU Radio – Official Documentation:
-- 
- [GNU Radio](https://www.gnuradio.org/)
+- GNU Radio – Official Documentation: [GNU Radio](https://www.gnuradio.org/)
 
-- Frequency Modulation (FM) – Wikipedia:
-- 
- [Wikipedia Frequency Modulation](https://en.wikipedia.org/wiki/Frequency_modulation)
+- Frequency Modulation (FM) – Wikipedia: [Wikipedia Frequency Modulation](https://en.wikipedia.org/wiki/Frequency_modulation)
 
-- FM stereo – Wikipedia:
-- 
- [FM Stereo](https://en.wikipedia.org/wiki/Fm_stereo)
+- FM stereo – Wikipedia: [FM Stereo](https://en.wikipedia.org/wiki/Fm_stereo)
 
 ## 📜 License
 MIT License  
