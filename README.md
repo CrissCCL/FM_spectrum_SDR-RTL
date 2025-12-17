@@ -11,7 +11,7 @@ The code captures raw IQ samples from an FM radio station, performs **FM demodul
 
 The project is intended for **educational, laboratory, and signal processing analysis purposes**, with a focus on understanding the **FM stereo multiplex spectrum**.
 
----
+
 
 ## 🧰 Hardware Setup
 
@@ -78,7 +78,7 @@ The spectrum clearly shows the main FM stereo components:
 - **38 kHz:** Stereo subcarrier
 - **57 kHz:** RDS subcarrier
 
----
+
 
 ## ⚙️ SDR Configuration
 
@@ -91,7 +91,6 @@ Key parameters defined in the code:
 
 These parameters can be adjusted directly at the beginning of the script.
 
----
 
 ## 🧪 Requirements
 
@@ -103,7 +102,7 @@ These parameters can be adjusted directly at the beginning of the script.
   - `matplotlib`
   - `pyrtlsdr`
 
----
+
 
 ## 🚀 Running the Code
 
@@ -111,3 +110,13 @@ The script can be executed directly from **VS Code** or any Python environment:
 
 ```bash
 python analisisSDR.py
+
+## 📚 References
+
+- GNU Radio – Official Documentation:
+- [GNU Radio](https://www.gnuradio.org/))
+  
+
+
+## 📜 License
+MIT License  
