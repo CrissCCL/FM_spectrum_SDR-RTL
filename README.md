@@ -12,6 +12,12 @@ The code captures raw IQ samples from an FM radio station, performs **FM demodul
 The project is intended for **educational, laboratory, and signal processing analysis purposes**, with a focus on understanding the **FM stereo multiplex spectrum**.
 
 
+## 📂 Contents
+
+- 🧠 **src** → Python code for SDR capture, demodulation, and spectrum analysis  
+- 📄 **docs** → Theory notes and references  
+- 🖼️ **media** → Device photos and spectrum visualizations  
+
 ## 🧰 Hardware Setup
 
 The measurements were performed using a **low-cost RTL-SDR USB dongle** connected to a standard FM broadcast antenna.
@@ -29,12 +35,6 @@ The RTL-SDR is used exclusively for **IQ data acquisition**, while all signal pr
 <img src="https://github.com/user-attachments/assets/d929ca5d-2eb0-4496-8d00-b7ccac389ebc" alt="SDR-RTL" width="400">
 </p>
 
-
-## 📂 Contents
-
-- 🧠 **src** → Python code for SDR capture, demodulation, and spectrum analysis  
-- 📄 **docs** → Theory notes and references  
-- 🖼️ **media** → Device photos and spectrum visualizations  
 
 
 ## 📡 System Description
