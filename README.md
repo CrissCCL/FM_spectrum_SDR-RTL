@@ -110,6 +110,7 @@ The script can be executed directly from **VS Code** or any Python environment:
 
 ```bash
 python analisisSDR.py
+```
 
 ## 📚 References
 
