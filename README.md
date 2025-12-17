@@ -27,7 +27,7 @@ The measurements were performed using a **low-cost RTL-SDR USB dongle** connecte
 The RTL-SDR is used exclusively for **IQ data acquisition**, while all signal processing is performed offline in Python.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d929ca5d-2eb0-4496-8d00-b7ccac389ebc" alt="SDR-RTL" width="500">
+<img src="https://github.com/user-attachments/assets/d929ca5d-2eb0-4496-8d00-b7ccac389ebc" alt="SDR-RTL" width="400">
 </p>
 
 
@@ -64,7 +64,7 @@ It includes:
 - Time–frequency spectrogram
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/513f25d7-8ff2-4c3c-b969-ac1f9440533c" alt="Spectrum" width="500">
+<img src="https://github.com/user-attachments/assets/513f25d7-8ff2-4c3c-b969-ac1f9440533c" alt="Spectrum" width="800">
 </p>
 
 
