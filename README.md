@@ -117,5 +117,15 @@ python analisisSDR.py
 
 - FM broadcasting – Wikipedia: [FM Stereo](https://en.wikipedia.org/wiki/FM_broadcasting)
 
+
+## ⚠️ Disclaimer
+
+This project is intended **for educational and experimental purposes only**.
+
+It is provided to demonstrate signal processing concepts related to FM broadcast reception and spectrum analysis.  
+The author does not encourage or endorse any unauthorized or improper use of radio equipment.
+
+Users are responsible for ensuring compliance with **local laws and regulations** regarding radio reception and spectrum usage.
+
 ## 📜 License
 MIT License  
