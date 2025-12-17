@@ -81,7 +81,7 @@ The spectrum clearly shows the main FM stereo components:
 
 Key parameters defined in the code:
 
-- Center frequency: FM broadcast station (e.g. 106.7 MHz)
+- Center frequency: FM broadcast station (e.g. 106.7 MHz within the 88–108 MHz FM broadcast band, Chile)
 - RF sample rate: 2.048 MS/s
 - Gain: Manual gain control
 - Number of captured samples: Configurable
