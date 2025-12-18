@@ -115,7 +115,7 @@ python analisisSDR.py
 
 - Frequency Modulation (FM) – Wikipedia: [Wikipedia Frequency Modulation](https://en.wikipedia.org/wiki/Frequency_modulation)
 
-- FM broadcasting – Wikipedia: [FM Stereo](https://en.wikipedia.org/wiki/FM_broadcasting)
+- FM broadcasting – Wikipedia: [FM broadcasting](https://en.wikipedia.org/wiki/FM_broadcasting)
 
 
 ## ⚠️ Disclaimer
