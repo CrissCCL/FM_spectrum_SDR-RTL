@@ -127,5 +127,8 @@ The author does not encourage or endorse any unauthorized or improper use of rad
 
 Users are responsible for ensuring compliance with **local laws and regulations** regarding radio reception and spectrum usage.
 
+## 🤝 Support projects
+ Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
+
 ## 📜 License
 MIT License  
