@@ -4,7 +4,7 @@
 ![DSP](https://img.shields.io/badge/DSP-Spectrum%20Analysis-orange)
 ![RF](https://img.shields.io/badge/RF-FM%20Broadcast-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Processing-green)
-![License](https://img.shields.io/badge/License-See%20repo-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
 
