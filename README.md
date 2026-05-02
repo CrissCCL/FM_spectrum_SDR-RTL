@@ -123,6 +123,8 @@ python analisisSDR.py
 
 - FM broadcasting – Wikipedia: [FM broadcasting](https://en.wikipedia.org/wiki/FM_broadcasting)
 
+- RDS Radio Data System: [RDS](https://en.wikipedia.org/wiki/Radio_Data_System)
+
 
 ## ⚠️ Disclaimer
 
