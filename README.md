@@ -24,7 +24,6 @@ The project is intended for **educational, laboratory, and signal processing ana
 
 - 🧠 **src** → Python code for SDR capture, demodulation, and spectrum analysis  
 - 📄 **docs** → Theory notes and references  
-- 🖼️ **media** → Device photos and spectrum visualizations  
 
 ## 🧰 Hardware Setup
 
